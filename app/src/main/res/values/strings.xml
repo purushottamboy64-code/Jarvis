@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Arushi</string>
+    <string name="arushi_subtitle">Live Voice Companion</string>
+    <string name="language_auto_badge">Auto · Multilingual</string>
+    <string name="state_idle_title">Tap to talk to Arushi</string>
+    <string name="state_idle_hint">Speak naturally in English, Hindi, Hinglish, or any supported language</string>
+    <string name="state_connecting_title">Connecting to Arushi…</string>
+    <string name="state_connecting_hint">Setting up live 16kHz mic and 24kHz audio stream</string>
+    <string name="state_listening_title">Listening</string>
+    <string name="state_listening_hint">Go ahead — speak naturally or interrupt anytime</string>
+    <string name="state_speaking_title">Arushi is speaking</string>
+    <string name="state_speaking_hint">Speak anytime to interrupt</string>
+    <string name="state_error_title">Connection interrupted</string>
+    <string name="action_test_speaker">Test Speaker</string>
+    <string name="action_diagnostics">Audio Logs</string>
+    <string name="action_voice_settings">Voice</string>
+    <string name="cd_mic_power_button">Toggle Arushi live voice session</string>
+    <string name="cd_test_speaker">Play 440Hz diagnostic test tone</string>
+    <string name="cd_open_diagnostics">Open live audio pipeline logs</string>
+    <string name="cd_open_voice_picker">Choose Arushi voice preset</string>
+    <string name="cd_close_sheet">Close panel</string>
+    <string name="cd_clear_logs">Clear diagnostic logs</string>
+    <string name="mic_permission_rationale">Microphone access is required so Arushi can hear your voice in real time.</string>
+    <string name="contacts_permission_rationale">Contacts access is needed only to look up the person you asked Arushi to call.</string>
+    <string name="grant_permission">Allow</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
